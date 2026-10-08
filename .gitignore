@@ -1,0 +1,11 @@
+# build output
+/bserve
+/bcurl
+*.o
+*.dSYM/
+
+# editors / OS
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
